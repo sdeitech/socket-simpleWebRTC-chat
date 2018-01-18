@@ -19,6 +19,6 @@ console.log('connected');
       io.emit('chat message', msg);
     });
   });
-http.listen(3000, function(){
-  console.log('listening on *:3000');
+http.listen(4141, function(){
+  console.log('listening on *:4141');
 });
