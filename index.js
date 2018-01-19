@@ -8,11 +8,11 @@ var __dirname = '/home/anubhavg/Desktop/socket-simpleWebRTC-chat/';
 var privateKey = '/home/anubhavg/Desktop/socket-simpleWebRTC-chat/stagingsdei_com.key';
 var cert = '/home/anubhavg/Desktop/socket-simpleWebRTC-chat/c86aaff33f318ca4.crt';
 
-if(env == 'production'){
+//if(env == 'production'){
   var __dirname = '/home/SocketChat/socket-simpleWebRTC-chat';  
   var privateKey = 'home/SocketChat/socket-simpleWebRTC-chat/stagingsdei_com.key';
   var cert = 'home/SocketChat/socket-simpleWebRTC-chat/c86aaff33f318ca4.crt';  
-}
+//}
 
 var options = {
   key: privateKey,
