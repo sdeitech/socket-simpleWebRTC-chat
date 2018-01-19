@@ -4,9 +4,9 @@ var fs = require("fs");
 var http = require('http');
 var https = require('https');
 var env = app.get('env');
-var __dirname = '/home/anubhavg/Desktop/socket-simpleWebRTC-chat/';
-var privateKey = '/home/anubhavg/Desktop/socket-simpleWebRTC-chat/stagingsdei_com.key';
-var cert = '/home/anubhavg/Desktop/socket-simpleWebRTC-chat/c86aaff33f318ca4.crt';
+//var __dirname = '/home/anubhavg/Desktop/socket-simpleWebRTC-chat/';
+//var privateKey = '/home/anubhavg/Desktop/socket-simpleWebRTC-chat/stagingsdei_com.key';
+//var cert = '/home/anubhavg/Desktop/socket-simpleWebRTC-chat/c86aaff33f318ca4.crt';
 
 //if(env == 'production'){
   var __dirname = '/home/SocketChat/socket-simpleWebRTC-chat';  
