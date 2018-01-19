@@ -9,8 +9,8 @@ var env = app.get('env');
 // var certificate = '/home/anubhavg/Desktop/socket-simpleWebRTC-chat/c86aaff33f318ca4.crt';
 
   var __dirname = '/home/SocketChat/socket-simpleWebRTC-chat/';  
-  var privateKey = 'home/SocketChat/socket-simpleWebRTC-chat/stagingsdei_com.key';
-  var certificate = 'home/SocketChat/socket-simpleWebRTC-chat/c86aaff33f318ca4.crt';  
+  var privateKey = '/home/SocketChat/socket-simpleWebRTC-chat/stagingsdei_com.key';
+  var certificate = '/home/SocketChat/socket-simpleWebRTC-chat/c86aaff33f318ca4.crt';  
 
 
 var options = {
