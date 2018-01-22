@@ -1,7 +1,6 @@
 # socket-simpleWebRTC-chat
 
-Text Chat,
-,Video Chat and File Transfer using Socket.io and simpleWebRTC.
+Text Chat, Video Chat and File Transfer using Socket.io and simpleWebRTC.
 
 Live URL - https://52.34.207.5:4141
 
